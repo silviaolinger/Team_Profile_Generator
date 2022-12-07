@@ -7,7 +7,7 @@ So we can have a quick access to their emails and GitHub profiles
  
 In addition a unit testing is written to make code maintainable, in every aspect.
 
-# Deployment.
+# Deployment
 Please find the repository link and the application deployment link.
 
 *** Repository ***
@@ -39,8 +39,8 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-## Screenshot
-
+## Usage
+*** ScreenShots ***
 The following image shows screenshot of the generated HTML’s appearance and functionality:
 
 ![Data Input](./assets/images/Node_Input_Prompt.png)
@@ -53,6 +53,15 @@ The following image shows screenshot of the generated HTML’s appearance and fu
 
 ![Testing_Results](./assets/images/Screenshot%202022-12-06%20190315.png)
 
+*** Videos ***
+ - Prompt window
+https://drive.google.com/file/d/1jsqj91z5MCYGFmA-d4afyan7JNSAvr1U/view
+
+- Webpage
+https://drive.google.com/file/d/1dIe-BVCVR6g25k8Xk3DnMCBVWTXqDgxX/view
+
+- Unit Test
+https://drive.google.com/file/d/1gZ6shI5OaScsHEuYeSrjj-dMhRxfF550/view
 
 ## Getting Started
 My application will use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. The application will be invoked by using the following command:
