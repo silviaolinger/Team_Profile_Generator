@@ -22,7 +22,7 @@ const questions = async () => {
       },
       {
         type: "input",
-        message: "What is your ID number?",
+        message: "What is your ID?",
         name: "id",
       },
       {
@@ -83,7 +83,7 @@ const questions = async () => {
           .prompt([
             {
               type: "input",
-              message: "What university did you attend?",
+              message: "Which university did you attend?",
               name: "school",
             },
           ])
