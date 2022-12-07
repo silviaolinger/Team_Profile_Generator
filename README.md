@@ -10,14 +10,16 @@ In addition a unit testing is written to make code maintainable, in every aspect
 # Deployment
 Please find the repository link and the application deployment link.
 
-*** Repository ***
+***Repository***
 https://github.com/silviaolinger/Team_Profile_Generator
 
-*** Application Deployment ***
+***Application Deployment***
 https://silviaolinger.github.io/Team_Profile_Generator/
+
+# Application Criteria:
 ```
 
-# Application Criteria
+
 
 ```md
 GIVEN a command-line application that accepts user input
@@ -40,21 +42,25 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Usage
-*** ScreenShots ***
+***ScreenShots***
 The following image shows screenshot of the generated HTML’s appearance and functionality:
-
+- Data Input
 ![Data Input](./assets/images/Node_Input_Prompt.png)
 
+- Creanting Index.html
 ![Creating index.html](./assets/images/command_creatTeam_index.html.png)
 
+- Index.html generated
 ![index.html](./assets/images/index_html_generated.png)
 
+- Index.html displayed
 ![Team_Profile_Webpage](./assets/images/team_page_generated.png)
 
+- Unit test performed
 ![Testing_Results](./assets/images/Screenshot%202022-12-06%20190315.png)
 
-*** Videos ***
- - Prompt window
+***Videos***
+ - Data Input
 https://drive.google.com/file/d/1jsqj91z5MCYGFmA-d4afyan7JNSAvr1U/view
 
 - Webpage
